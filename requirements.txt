@@ -1,0 +1,15 @@
+langchain>=0.2.0
+langchain-community
+langchain-openai
+neo4j
+fastapi
+uvicorn
+pydantic
+python-dotenv
+py2neo
+networkx
+sentence-transformers
+faiss-cpu
+chromadb
+beautifulsoup4
+pypdf
